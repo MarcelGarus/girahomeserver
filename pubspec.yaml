@@ -1,0 +1,14 @@
+name: girahomeserver
+version: 0.0.1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  rxdart: any
+  async: any
+  basics: any
+  crypto: any
+  meta: any
+  dartx: any
+  convert: any
